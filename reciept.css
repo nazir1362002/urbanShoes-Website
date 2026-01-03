@@ -1,0 +1,21 @@
+body {
+  font-family: Arial;
+  background: #fff;
+  padding: 40px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.receipt-box {
+  max-width: 500px;
+  margin: auto;
+  border: 2px dashed #111;
+  padding: 20px;
+}
+
+.receipt-box p {
+  display: flex;
+  justify-content: space-between;
+}
