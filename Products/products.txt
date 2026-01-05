@@ -1,0 +1,9 @@
+[
+    { "id": 1, "name": "Casual Sneker", "price": 200, "url": "images/cover.jpg" },
+    { "id": 2, "name": "Running Shoes", "price": 50, "url": "images/yello.jpg" },
+    { "id": 3, "name": "Boot", "price": 100, "url": "images/green.jpg" },
+    { "id": 4, "name": "Lofer", "price": 100, "url": "images/green2.jpg" },
+    { "id": 5, "name": "Shoes", "price": 100, "url": "images/whiteShoe.jpg" },
+    { "id": 6, "name": "Sneker", "price": 100, "url": "images/yello.jpg" },
+    { "id": 7, "name": "New Snekerr", "price": 100, "url": "images/yello.jpg" }
+]
